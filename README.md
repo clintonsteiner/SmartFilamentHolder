@@ -18,8 +18,12 @@ x   menu            num options
 12 Change Spool  
 13 Recalibrate  
 14 Adjust Spool Properties  
-15 Adjust calibration scale  
-16 adjust calibration offset  
+15 Adjust Spool Color  
+16 Adjust Spool Weight  
+17 Adjust Spool material  
+
+18 Adjust calibration scale  
+19 adjust calibration offset  
 
 # Variables
   # EEPROM Locations
