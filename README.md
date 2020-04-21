@@ -1,11 +1,11 @@
 # SmartFilamentHolder
 smart filament holder programming
 
-# Variables
-  currentMenu
-  currentMenuOption
-  maxMenuOption
-  arrowOffsetFromTop
+# Variables  
+  currentMenu  
+  currentMenuOption  
+  maxMenuOption  
+  arrowOffsetFromTop  
 
 # Functions
 OLED:  
