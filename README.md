@@ -1,25 +1,25 @@
 # SmartFilamentHolder
 smart filament holder programming
 # Menu
-x   menu            num options
--1 creditIntro          1
-0 instructions          1
-1 main menu
-2 filament remaining
-3 spool select
-4 calibrate
-5 diagnostics
-6 Contact
-7 Spool 1
-8     2
-9     3
-10    4
-11 Spool 5
-12 Change Spool
-13 Recalibrate
-14 Adjust Spool Properties
-15 Adjust calibration scale
-16 adjust calibration offset
+x   menu            num options  
+-1 creditIntro          1  
+0 instructions          1  
+1 main menu  
+2 filament remaining  
+3 spool select  
+4 calibrate  
+5 diagnostics  
+6 Contact  
+7 Spool 1  
+8     2  
+9     3  
+10    4  
+11 Spool 5  
+12 Change Spool  
+13 Recalibrate  
+14 Adjust Spool Properties  
+15 Adjust calibration scale  
+16 adjust calibration offset  
 
 # Variables
   # EEPROM Locations
