@@ -2,10 +2,33 @@
 smart filament holder programming
 
 # Variables  
-  currentMenu  
-  currentMenuOption  
-  maxMenuOption  
-  arrowOffsetFromTop  
+  # EEPROM Locations
+  0 calibrationFactor
+  4 calibrationOffset
+  
+  8 spool1Weight
+  10 spool1Color
+  20 spool1Filament
+  
+  spool 2  
+  30
+  32
+  42
+  
+  spool3  
+  52
+  54
+  64
+  
+  spool 4  
+  66
+  68
+  78
+  
+  spool5  
+  88
+  90
+  100
 
 # Functions
 OLED:  
