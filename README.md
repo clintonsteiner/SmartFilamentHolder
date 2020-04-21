@@ -5,6 +5,6 @@ Solidworks modeling of the smart filament holder design
 
 Rotary Encoder
 
-pinA = 2;
-pinB = 4;
-encoder SW = 3;
+pinA = 2  
+pinB = 4  
+encoder SW = 3  
